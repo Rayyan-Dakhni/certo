@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/certo_frontend/static/css/main.9a85cbbf.css",
+    "main.js": "/certo_frontend/static/js/main.c55fc272.js",
+    "static/js/787.9eba89aa.chunk.js": "/certo_frontend/static/js/787.9eba89aa.chunk.js",
+    "static/media/phoenix.jpg": "/certo_frontend/static/media/phoenix.5dbe519aab24fe4d253d.jpg",
+    "static/media/las-vegas.jpg": "/certo_frontend/static/media/las-vegas.2bfa02f85e302237efe5.jpg",
+    "static/media/dallas.jpg": "/certo_frontend/static/media/dallas.327c27e69752bc3ad147.jpg",
+    "static/media/atlanta.jpg": "/certo_frontend/static/media/atlanta.74e9b1ec3b57c70e883a.jpg",
+    "static/media/transparent.png": "/certo_frontend/static/media/transparent.22d94361d6024e598738.png",
+    "static/media/orlando.jpg": "/certo_frontend/static/media/orlando.ac03d80e9e10d9122685.jpg",
+    "static/media/Audi-Wallpaper-5.jpg": "/certo_frontend/static/media/Audi-Wallpaper-5.c85ba428a6cc2fd40040.jpg",
+    "static/media/rental_car.svg": "/certo_frontend/static/media/rental_car.98684ebacb56c684f8fbf0514ceb8972.svg",
+    "index.html": "/certo_frontend/index.html",
+    "main.9a85cbbf.css.map": "/certo_frontend/static/css/main.9a85cbbf.css.map",
+    "main.c55fc272.js.map": "/certo_frontend/static/js/main.c55fc272.js.map",
+    "787.9eba89aa.chunk.js.map": "/certo_frontend/static/js/787.9eba89aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a85cbbf.css",
+    "static/js/main.c55fc272.js"
+  ]
+}
